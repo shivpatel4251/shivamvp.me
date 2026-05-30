@@ -72,7 +72,7 @@ export default function App() {
         <h2>About Me</h2>
 
         <p>
-          Passionate <b>AWS Engineer</b> focused on building
+          Passionate <b>AWS Engineer</b> & <b>DevOps Engineer</b> focused on building
           secure, scalable and automated cloud environments.
           Experienced in <i>Infrastructure as Code</i>,
           CI/CD pipelines and production-grade deployments.
