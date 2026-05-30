@@ -16,7 +16,7 @@ export default function App() {
           Hi, I'm <span>Shivam Patel</span>
         </h1>
 
-        <h2>AWS Engineer ☁️</h2>
+        <h2>Junior AWS Engineer ☁️</h2>
 
         <p>
           Building scalable cloud infrastructure, CI/CD pipelines,
