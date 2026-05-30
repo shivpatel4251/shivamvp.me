@@ -35,7 +35,7 @@ export default function App() {
           whileHover={{ scale: 1.08 }}
         >
           <h3>AWS Cloud</h3>
-          <p>VPC, EC2, S3, IAM, Route53, RDS, CloudFront</p>
+          <p>VPC, EC2, S3, IAM, Certificate Manager, Route53, CloudFront</p>
         </motion.div>
 
         <motion.div
