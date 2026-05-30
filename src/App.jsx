@@ -13,10 +13,10 @@ export default function App() {
         transition={{ duration: 1 }}
       >
         <h1>
-          Hi, I'm <span>Shivam Patel</span>
+          Hi, I'm <span>Shivam V Patel</span>
         </h1>
 
-        <h2>Juniorrr AWS Engineer ☁️</h2>
+        <h2>Juniorrr AWS Engineer & Cloude ☁️</h2>
 
         <p>
           Building scalable cloud infrastructure, CI/CD pipelines,
