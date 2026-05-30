@@ -53,14 +53,14 @@ export default function App() {
           <h3>Containers</h3>
           <p>Docker, Kubernetes, ECS, EKS</p>
         </motion.div>
-
+{/* 
         <motion.div
           className="card"
           whileHover={{ scale: 1.08 }}
         >
           <h3>Backend</h3>
           <p>.NET Core, APIs, Redis, MySQL</p>
-        </motion.div>
+        </motion.div> */}
       </section>
 
       <motion.section
