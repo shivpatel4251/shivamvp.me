@@ -16,10 +16,10 @@ phases:
   post_build:
     commands:
       - echo Uploading files to S3...
-      - aws s3 sync dist/ s3://shivamvp  --delete
+      - aws s3 sync dist/ $bucket_name  --delete
 
       - echo Creating CloudFront invalidation...
-      - aws cloudfront create-invalidation --distribution-id E3589433YGUVZE --paths "/*"
+      - aws cloudfront create-invalidation --distribution-id $distribuition_id --paths "/*"
 
 artifacts:
   files:
